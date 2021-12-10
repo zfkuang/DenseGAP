@@ -4,7 +4,7 @@
 
 layout: default
 title: DenseGAP
-description: The project page for "DenseGAP":" Graph-Structured Dense Correspondence Learningwith Anchor Points"
+description: The project page for "DenseGAP":" Graph-Structured Dense Correspondence Learning with Anchor Points"
 ---
 
 ## **Abstract**
@@ -12,8 +12,12 @@ Establishing dense correspondence between two images is a fundamental computer v
 
 
 ## **Architecture**
-<center><img src="figures/concept.png" width="1152"></center>
-<center><img src="figures/structure.png" width="1152"></center>
+The following images show the concept and architecture design of our model. 
+<center><img src="figures/concept.png" width="1152">
+<figcaption> Illustration of the concept. From left to right: 1) Showcase of how anchor points guide our model to find dense correspondences; 2) Visualization of our designed graph; 3) Three types of edges in our graph. </figcaption></center>
+
+<center><img src="figures/structure.png" width="1152">
+<figcaption> Overview of the framework. Given two images and anchor points, we first extract the coarse and fine feature maps of each image. Then we obtain the features of anchor points from the coarse feature maps as input to the Propagation Module.The output of the module is updated coarse feature maps, and is then fed with the fine feature maps to the Refinement Module.This module finally generates the updated fine feature maps. </figcaption></center>
 
 ## **Application 1:** Outdoor Sparse Correspondence.
 Sparse matching results on <a href="https://www.cs.cornell.edu/projects/megadepth/" style="color:#1e6bb8;">MegaDepth</a>, compared with <a href="https://dualrcnet.active.vision/" style="color:#1e6bb8;">DualRC-Net</a> and <a href="https://psarlin.com/superglue/" style="color:#1e6bb8;">SuperGlue</a>.
