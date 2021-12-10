@@ -30,7 +30,7 @@ author2: "Jiaman Li"
 author2_url: "http://lijiaman.github.io/"
 author3: "Mingming He"
 author3_url: "http://mingminghe.com/"
-author4: "Tone Wang"
+author4: "Tong Wang"
 author4_url: ""
 author5: "Yajie Zhao"
 author5_url: "https://www.yajie-zhao.com/"
@@ -48,9 +48,11 @@ thumbnail_code: "thumbnails/code.png"
 thumbnail_supp: "thumbnails/supp.jpg"
 #url_paper: "https://arxiv.org/abs/2109.08090"
 #url_supp: "/supps/DisUnknown_supp.pdf"
-caption_paper: "Paper"
-caption_code: "Code"
-caption_supp: "Supp"
+
+caption_paper: "Coming Soon"
+caption_code: "Coming Soon"
+caption_supp: "Coming Soon"
+
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: StormRaiser123
