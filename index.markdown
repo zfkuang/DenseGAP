@@ -10,16 +10,16 @@ Establishing dense correspondence between two images is a fundamental computer v
 
 
 ## **Architecture**
-<center><img src="/figures/concept.png" width="1152"></center>
-<center><img src="/figures/structure.png" width="1152"></center>
+<center><img src="figures/concept.png" width="1152"></center>
+<center><img src="figures/structure.png" width="1152"></center>
 
 ## **Application 1:** Sparse Correspondence.
-<center><img src="/figures/app_anime_style_transfer.jpg" width="1152" >
+<center><img src="figures/app_anime_style_transfer.jpg" width="1152" >
 <figcaption>The left column shows four input examples of two different
 artists.</figcaption></center>
 
 ## **Application 2:** Dense Correspondence
-<center><img src="/figures/app_portrait_relighting.jpg" width="1152" ></center>
+<center><img src="figures/app_portrait_relighting.jpg" width="1152" ></center>
 
 ## **Application 3:** Dense Correspondence 2
 <iframe width="100%" height="100%" style="margin: none; display: block;"
