@@ -1,0 +1,82 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "DenseGAP"
+description: "The project page for \"DenseGAP: Graph-Structured Dense Correspondence Learningwith Anchor Points\""
+
+title1: "DenseGAP:"
+title2: "DenseGAP: Graph-Structured Dense Correspondence Learningwith Anchor Points"
+title3: "Preprint on Arxiv, 2021"
+#email: stormraiser2012@gmail.com
+author1: "Zhengfei Kuang"
+author1_url: "https://zhengfeikuang.com/"
+author2: "Jiaman Li"
+author2_url: "http://lijiaman.github.io/"
+author3: "Mingming He"
+author3_url: "http://mingminghe.com/"
+author4: "Tone Wang"
+author4_url: ""
+author5: "Yajie Zhao"
+author5_url: "https://www.yajie-zhao.com/"
+
+author_aff1: "1,2"
+author_aff2: "1,3"
+author_aff3: "2"
+
+affliation1: "University of Southern California"
+affliation2: "USC Institute for Creative Technologies"
+affliation3: "Stanford University"
+
+thumbnail_paper: "/thumbnails/paper.jpg"
+thumbnail_code: "/thumbnails/code.png"
+thumbnail_supp: "/thumbnails/supp.jpg"
+#url_paper: "https://arxiv.org/abs/2109.08090"
+#url_supp: "/supps/DisUnknown_supp.pdf"
+caption_paper: "Paper"
+caption_code: "Code"
+caption_supp: "Supp"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: StormRaiser123
+#github_username:  stormraiser
+
+# Build settings
+theme: jekyll-theme-cayman
+#plugins:
+#  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
