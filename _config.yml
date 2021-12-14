@@ -47,10 +47,10 @@ affliation3: "Stanford University"
 thumbnail_paper: "thumbnails/paper.jpg"
 thumbnail_code: "thumbnails/code.png"
 thumbnail_supp: "thumbnails/supp.jpg"
-#url_paper: "https://arxiv.org/abs/2109.08090"
+url_paper: "https://arxiv.org/abs/2112.06910"
 #url_supp: "/supps/DisUnknown_supp.pdf"
 
-caption_paper: "Coming Soon"
+caption_paper: "Paper"
 caption_code: "Coming Soon"
 caption_supp: "Coming Soon"
 
