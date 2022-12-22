@@ -48,7 +48,7 @@ thumbnail_paper: "thumbnails/paper.jpg"
 thumbnail_supp: "thumbnails/supp.jpg"
 # thumbnail_code: "thumbnails/code.png"
 url_paper: "https://arxiv.org/abs/2112.06910"
-url_supp: "/supps/supp.pdf"
+url_supp: "supps/supp.pdf"
 
 caption_paper: "Paper"
 caption_supp: "Supplementary"
